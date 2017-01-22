@@ -13,6 +13,7 @@ La presentazione tratta:
 - Esempi di queste tipologie di Learning
 - Video esplicativi + link e approfondimenti
 - Workshop finale su: Logistic Regression con l'ausilio di Python (Anaconda 3.x)
+
 - - -
 Ultimo aggiornamento: 22 Gennaio 2017, 8:51 PM
 
