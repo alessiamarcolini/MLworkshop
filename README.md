@@ -1,7 +1,7 @@
 # MLworkshop
 
 # Machine Learning Workshop @MarconiVR
-##### A cura di Alessia Marcolini & Alessandro Marchioro, 20 Jan 2017, ITIS Marconi Verona
+##### A cura di Alessia Marcolini & [Alessandro Marchioro](https://github.com/marcioz98), 20 Jan 2017, ITIS Marconi Verona
 - - -
 ![](http://respondr.io/wp-content/uploads/2016/03/machine_learning-1024x724.jpg)
 ## Prerequisiti:
