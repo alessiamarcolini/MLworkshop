@@ -21,7 +21,7 @@ Per avviare la presentazione, aprire il Terminale nella stessa directory della p
 1) Digitare il comando seguente e premere Invio
 
         jupyter notebook
-
+        
 2) Si aprirá automaticamente una pagina web all'indirizzo localhost/8888
 3) Cliccare sul file con estensione .ipynb
 #### Tramite slides HTML (modalità statica):
