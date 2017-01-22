@@ -1,6 +1,6 @@
 # MLworkshop
 
-# Machine Learning Workshop - Presentazione, MarconiVR, 20 Gennaio 2017
+## Machine Learning Workshop - Presentazione, MarconiVR, 20 Gennaio 2017
 ##### A cura di Alessia Marcolini & [Alessandro Marchioro](http:\\github.com\marcioz98)
 - - -
 La presentazione tratta:
