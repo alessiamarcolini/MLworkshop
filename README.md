@@ -10,8 +10,8 @@
 - Facoltativo: [RISE](https://github.com/damianavila/RISE) per visualizzare la presentazione live
 
 ## Preparazione:
-1) Installare Anaconda 3.x sulla macchina
-2) Aggiornare Anaconda all'ultima versione
+1) Installare Anaconda 3.x sulla macchina <br>
+2) Aggiornare Anaconda all'ultima versione <br>
 3) Scaricare la presentazione in una directory a scelta
 
 ## Avvio:
@@ -22,7 +22,7 @@ Per avviare la presentazione, aprire il Terminale nella stessa directory della p
 
         jupyter notebook
         
-2) Si aprirá automaticamente una pagina web all'indirizzo localhost/8888
+<br>2) Si aprirá automaticamente una pagina web all'indirizzo localhost/8888 <br>
 3) Cliccare sul file con estensione .ipynb
 #### Tramite slides HTML (modalità statica):
 1) Aprire il Terminale e digitare il comando seguente, poi premere Invio
