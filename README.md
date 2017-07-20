@@ -7,7 +7,7 @@
 ## Requirements:
 - [Anaconda 3.x Framework](https://www.continuum.io/downloads) 
 ![](https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/Anaconda_Logo.png/200px-Anaconda_Logo.png)
-- Optional: [RISE](https://github.com/damianavila/RISE) per visualizzare la presentazione live
+- Optional: [RISE](https://github.com/damianavila/RISE) for executing code during presentation
 
 ## Installation:
 1) Install Anaconda 3.x on your machine <br>
